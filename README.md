@@ -99,3 +99,4 @@ kubeadm join 172.31.10.12:6443 --token cdm6fo.dhbrxyleqe5suy6e \
 
 
 
+packagemgt
